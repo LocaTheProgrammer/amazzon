@@ -11,7 +11,7 @@ import { StoreModule } from '@ngrx/store';
 import { reducers } from './redux';
 import { ProductsEffects } from './redux/products/products.effects';
 import { RouterEffects } from './redux/router/router.effects';
-import { RegistrazioneComponent } from './features/registrazione/registrazione.component';
+
 import { HttpClientModule } from '@angular/common/http';
 import { ProductsComponent } from './features/products/components/main/products.component';
 import { CartEffects } from './redux/cart/cart.effects';
