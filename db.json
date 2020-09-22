@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "username": "loca",
+      "name": "pietro",
+      "surname": "locatelli",
+      "indirizzo": "via dei celestini",
+      "cellulare": "34567890",
+      "citta": "bg",
+      "informazioni": "prova",
+      "cap": "24124",
+      "numero": "7"
+    }
+  ],
+  "pagamento": [
+    {
+      "pagamento": {
+        "metodoPagamento": "drfhg",
+        "tipoCarta": "hyrtsh",
+        "numeroCarta": "rsdty6h",
+        "cvc": "dtry6jdtyj67ft7j"
+      },
+      "id": 1
+    },
+    {
+      "pagamento": {
+        "metodoPagamento": "carta",
+        "tipoCarta": "visa",
+        "numeroCarta": "123312",
+        "cvc": "232112"
+      },
+      "id": 2
+    },
+    {
+      "pagamento": {
+        "metodoPagamento": "loca",
+        "tipoCarta": "LukeSkywa",
+        "numeroCarta": "todo1",
+        "cvc": "todo1"
+      },
+      "id": 3
+    },
+    {
+      "pagamento": {
+        "metodoPagamento": "dsads",
+        "tipoCarta": "sdsaddsa",
+        "numeroCarta": "dsa",
+        "cvc": "sad"
+      },
+      "id": 4
+    },
+    {
+      "pagamento": {
+        "metodoPagamento": "carta",
+        "tipoCarta": "visa",
+        "numeroCarta": "12345",
+        "cvc": "123"
+      },
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "title": "cover",
+        "description": "cover",
+        "image": "../assets/images/home/carosel/cover.jpg",
+        "color": "nd",
+        "textColor": "nd",
+        "steps": [
+          {
+            "id": null,
+            "title": "cover",
+            "description": "cover cinese",
+            "image": "cover",
+            "color": "blu",
+            "textColor": "nero"
+          }
+        ]
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "title": "cappellino",
+        "description": "cappellino",
+        "image": "../assets/images/home/carosel/cappellini.jpg",
+        "color": "nd",
+        "textColor": "nd",
+        "steps": [
+          {
+            "id": null,
+            "title": "cappellino",
+            "description": "cappellino",
+            "image": "cappellino",
+            "color": "rosso",
+            "textColor": "bianco"
+          }
+        ]
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 4,
+        "title": "speaker bt",
+        "description": "speaker",
+        "image": "../assets/images/home/carosel/speaker.jpg",
+        "color": "nd",
+        "textColor": "nd",
+        "steps": [
+          {
+            "id": null,
+            "title": "speaker",
+            "description": "speaker",
+            "image": "speaker",
+            "color": "rosso",
+            "textColor": "nero"
+          }
+        ]
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "cover",
+        "description": "cover",
+        "image": "../assets/images/home/carosel/cover.jpg",
+        "color": "nd",
+        "textColor": "nd",
+        "steps": [
+          {
+            "id": null,
+            "title": "cover",
+            "description": "cover",
+            "image": "cover",
+            "color": "cover",
+            "textColor": "cover"
+          }
+        ]
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "title": "portafogli",
+        "description": "portafogli",
+        "image": "../assets/images/home/carosel/portafogli.jpg",
+        "color": "nd",
+        "textColor": "nd",
+        "steps": [
+          {
+            "id": null,
+            "title": "portafogli",
+            "description": "portafogli swag",
+            "image": "portafogli",
+            "color": "giallo",
+            "textColor": "bianco"
+          }
+        ]
+      },
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "cover",
+      "description": "cover",
+      "image": "../assets/images/home/carosel/cover.jpg",
+      "color": "nd",
+      "textColor": "nd",
+      "steps": [
+        {
+          "id": null,
+          "title": "cover",
+          "description": "cover",
+          "image": "cover",
+          "color": "nd",
+          "textColor": "nd"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "cappellino",
+      "description": "cappellino",
+      "image": "../assets/images/home/carosel/cappellini.jpg",
+      "color": "nd",
+      "textColor": "nd",
+      "steps": [
+        {
+          "done": false,
+          "title": "cappellino",
+          "description": "cappellino",
+          "image": "\"../assets/images/cappellini.jpg\"",
+          "color": "nd",
+          "textColor": "nd",
+          "id": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "portafogli",
+      "description": "portafogli",
+      "image": "../assets/images/home/carosel/portafogli.jpg",
+      "color": "nd",
+      "textColor": "nd",
+      "steps": [
+        {
+          "id": null,
+          "title": "portafogli",
+          "description": "portafogli",
+          "image": "portafogli",
+          "color": "nd",
+          "textColor": "nd"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "speaker bt",
+      "description": "speaker",
+      "image": "../assets/images/home/carosel/speaker.jpg",
+      "color": "nd",
+      "textColor": "nd",
+      "steps": [
+        {
+          "id": null,
+          "title": "speaker",
+          "description": "speaker",
+          "image": "speaker",
+          "color": "nd",
+          "textColor": "nd"
+        }
+      ]
+    }
+  ]
+}
